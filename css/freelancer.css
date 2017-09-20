@@ -165,6 +165,7 @@ header.masthead {
   color: white;
   background: #18BC9C; }
   header.masthead img {
+    border-radius:50%;
     display: block;
     margin: 0 auto 20px; }
   header.masthead .intro-text .name {
@@ -448,7 +449,3 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
-
-.img-round{
-    border-radius:50%;
-}
